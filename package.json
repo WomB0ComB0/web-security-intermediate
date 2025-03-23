@@ -8,5 +8,9 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "bun": "^1.2.5",
+    "type-fest": "^4.37.0"
   }
 }
